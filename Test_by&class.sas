@@ -1,0 +1,10 @@
+proc sort data=sashelp.class out=result; *若means使用by则需要先按之后的分组排序,class则不用;
+by sex;
+run;
+proc print data=result;
+run;
+proc means data=result;
+by sex;
+*class sex; *class会先排好序再分组分析，，by则不会排序;
+var age;
+run;

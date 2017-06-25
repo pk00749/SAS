@@ -1,0 +1,10 @@
+name=ÕÅ year=12 gender=ÄĞ height=158 weight=54
+name=Îâ year=13 gender=ÄĞ height=153 weight=45
+name=²Ì year=13 gender=Å® height=150 weight=42
+name=¼¾ year=14 gender=ÄĞ height=160 weight=60
+name=Ô¬ year=12 gender=Å® height=146 weight=40
+name=½¯ year=14 gender=ÄĞ height=166 weight=56
+name=ÕÂ year=13 gender=ÄĞ height=154 weight=52
+name=¸¶ year=12 gender=ÄĞ height=148 weight=49
+name=·ê year=13 gender=ÄĞ height=157 weight=51
+name=Ğ» year=12 gender=Å® height=143 weight=41
